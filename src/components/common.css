@@ -1,0 +1,22 @@
+.main{
+    background-color: aquamarine;
+    border: 5px solid brown ;
+    border-radius: 25px;
+    margin: 25px;
+    padding: 10px;
+    /* text-align: center; */
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(91, 91, 167);
+    font-family: 'Times New Roman', Times, serif;
+}
+.sub{
+    margin: 25px;
+    padding: 10px;
+    background-color: rgb(75, 246, 246);
+    border: 5px solid rgb(135, 135, 23);
+    color: rgb(75, 30, 30);
+    border-radius: 25px;
+    font-style: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
